@@ -1,3 +1,6 @@
+
+sud0 raspi-config
+
 ### Install drivers in the Ubuntu system
 https://github.com/lcdwiki/LCD-show-ubuntu
 
